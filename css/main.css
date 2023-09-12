@@ -2,7 +2,7 @@
   --body-bg-color: #fff;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: #222;
   --blockquote-color: #666;
   --link-color: #555;
   --link-hover-color: #222;
@@ -535,7 +535,7 @@ pre code {
   width: 100%;
 }
 .post-body .label {
-  color: #555;
+  color: #222;
   padding: 0 2px;
 }
 .post-body .label.default {
@@ -984,14 +984,14 @@ pre code {
 }
 .site-title {
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1.375em;
+  font-size: 5em;
   font-weight: normal;
   line-height: 1.5;
   margin: 0;
 }
 .site-subtitle {
   color: #999;
-  font-size: 0.8125em;
+  font-size: 1.25em;
   margin: 10px 0;
 }
 .use-motion .site-title,
@@ -1446,7 +1446,7 @@ pre code {
   width: 100%;
 }
 .with-love {
-  color: #f00;
+  color: ;
   display: inline-block;
   margin: 0 5px;
 }
@@ -2220,7 +2220,7 @@ header.header {
   }
 }
 .custom-logo-image {
-  background: #fff;
+  background: #ffa500;
   margin: 0 auto 10px;
   max-width: 150px;
   padding: 5px;
@@ -2340,7 +2340,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #1dffff;
+  background: #cff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
